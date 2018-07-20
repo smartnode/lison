@@ -1,2 +1,2 @@
-# lison
-Tools and Data for Uzbek Nature Language Processing
+# Lison
+Lison (Read: lison, Cyrillic: Лисон) is project to create data and tools for Uzbek Natural Language Understanding (NLU). Our ultimate goal is to generate training data in the form of UD Uzbek Treebank for Google's [SyntaxNet](https://ai.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html) Framework.  We will be working with the following goals and you are welcome to contribute to the project.
